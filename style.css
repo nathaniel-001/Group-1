@@ -517,28 +517,7 @@ margin: 20px auto 5px;
     transition: 0.7s;
     }
 
- /*----Gallery----*/
- div.gallery {
-   margin: 10px;
-   border: 4px solid #ccc;
-   float: left;
-   width: 180px;
-   padding: 1px;
- }
- 
- div.gallery:hover {
-   border: 5px solid #777;
- }
- 
- div.gallery img {
-   width: 100%;
-   height: 250px;
- }
- 
- div.desc {
-   padding: 25px;
-   text-align: center;
- }
+
 /*------footer---*/
  .footer {
     position: relative;
